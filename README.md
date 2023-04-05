@@ -27,3 +27,4 @@ npm install
 - ### Material UI
 - ### Sweet Alert 2
 
+![](https://github.com/EmilianoTancredi21/EntregaFInalREACT/blob/main/Animation.gif)
