@@ -1,0 +1,13 @@
+.contadorSpan{
+    color: aliceblue;
+    font-size: 2rem;
+    display: flex;
+}
+
+.span{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+    align-items: baseline;
+    padding: 25px;
+}

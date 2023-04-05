@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    background-image: url(https://res.cloudinary.com/dg8awhbvm/image/upload/v1678477751/patron_e9tmoa.jpg);
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+
+.container {
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: 600px;
+    padding: 50px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+
+.container  h2 {
+    color: aliceblue;
+    font-size: 28px;
+    margin-bottom: 30px;
+  }
+
+.container  h3 {
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 50px;
+  }
+
+.container  a {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  /* ------------------------------------ */
+
+  .btn{
+    padding: 8px;
+    border: none;
+    border-radius: 6px;
+    margin: 5px;
+  }
+
+
+
+.cardButtons{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor{
+    color: aliceblue;
+    margin: 10px;
+    align-items: center;
+  }
+
+  .imgCart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }

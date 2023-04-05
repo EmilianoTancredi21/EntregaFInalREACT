@@ -1,0 +1,31 @@
+
+.container{
+    border: 1px solid black;
+}
+
+.precio{
+    display: flex;
+    align-items: center;
+}
+
+.detalles{
+    border: none;
+    padding: 12px 24px;
+    border-radius: 24px;
+    font-size: 12px;
+    font-size: 0.8rem;  
+    letter-spacing: 2px;  
+    cursor: pointer;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-decoration: none;
+}
+
+.detalles:hover{
+    transform: scale(1.125);  
+    background: rgba(7, 80, 95, 0.9);
+    color: rgba(255,255,255,0.95);
+    transition: all .3s ease;  
+}
+
